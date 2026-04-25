@@ -128,7 +128,9 @@ pipeline {
 ```id="access1"
 http://<EC2-PUBLIC-IP>:8086
 ```
-
+---
+## 📸 Application Output
+![App Screenshot](app-output.png)
 ---
 
 ## 🖥️ Application UI Details
