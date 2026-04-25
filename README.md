@@ -130,7 +130,7 @@ http://<EC2-PUBLIC-IP>:8086
 ```
 ---
 ## 📸 Application Output
-![App Screenshot](app-output.png)
+![App Screenshot](app-output.png.png)
 ---
 
 ## 🖥️ Application UI Details
